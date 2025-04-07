@@ -1,2 +1,1 @@
-# citation-generator-
-https://github.com/5j9/citer/blob/main/dev/googlebooksdomains.py
+A web-based citation generator is to help make the process of producing reliable academic references more efficient. By only copying a URL, entering a DOI, or entering basic publishing information, this tool will enable students, researchers, and educators to automatically produce citations in widely used styles including APA, MLA, and Chicago. This software's main objectives are to save time, minimize formatting errors, and streamline the citation process—especially for users who are unfamiliar with intricate citation styles.
