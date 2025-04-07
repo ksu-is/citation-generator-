@@ -1,6 +1,4 @@
-Sprint 1
-Create Repository (Done)
-Create ReadMe (Done)
+Sprint 1Create Repository (Done)Create ReadMe (Done)
 Create Roadmap (Done)
 Find Related projects and search for ideas (Done)
 
